@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>About Me </h3>
+<h3 align="left" style="text-decoration: underline;">About Me </h3>
 I'm a full-stack web developer with a passion for learning and building new things.
 Born and raised in the United Kingdom, I moved to the United States in 2017.
 Want to know more? Send a message :)
 
 - 🔭 I’m currently working on [Facebook-Cap](https://facebook-cap.herokuapp.com/)
 
-<h3 align="left" textdecoration="underline">Connect with me:</h3>
+<h3 align="left" style="text-decoration: underline;">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/leo-l-79a260b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo l" height="30" width="40" /></a>
 </p>
 
-<h3> Tools and Technologies <h2>
+<h3  style="text-decoration: underline;"> Tools and Technologies <h2>
 <div align="center">
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
