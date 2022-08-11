@@ -65,6 +65,6 @@ Want to know more? Send a message :)
 
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedition" alt="dedition" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedition" alt="dedition" /></a> </p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedition&show_icons=true&locale=en" alt="dedition" /></p>
