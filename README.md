@@ -5,7 +5,8 @@
 <p align="center" dir="auto">
   <!-- Visitor count<br> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedition&label=Profile%20views&color=0e75b6&style=flat" alt="dedition" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedition&label=Profile%20views&color=0e75b6&style=for-the-badge"
+ style="max-width: 100%;" alt="dedition" /> </p>
 <!-- <img src="https://camo.githubusercontent.com/86856d208d6a417e0a6d2783420b0a291ebb94a7c081c2028ba0c56df4bdb759/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f6e6b6f6d61726576267374796c653d666f722d7468652d6261646765" data-canonical-src="https://komarev.com/ghpvc/?username=dedition&amp;style=for-the-badge" style="max-width: 100%;">
 </p> -->
 <!-- Running emoji -->
