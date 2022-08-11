@@ -4,7 +4,7 @@
 
 <p align="center" dir="auto">
   Visitor count<br>
-![](https://komarev.com/ghpvc/?username=dedition)
+![Visitor Count](https://komarev.com/ghpvc/?username=dedition)
 </p>
 
 <!-- Running emoji -->
