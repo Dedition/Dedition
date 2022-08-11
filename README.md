@@ -4,9 +4,10 @@
 
 <p align="center" dir="auto">
   Visitor count<br>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667"><img src="https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/dedition/count.svg" style="max-width: 100%;"></a>
+![](https://komarev.com/ghpvc/?username=dedition)
 </p>
 
+<!-- Running emoji -->
 <img align='right' src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966">
 
 <!--
