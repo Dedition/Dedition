@@ -3,10 +3,11 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width: 100%;"></a>
 
 <p align="center" dir="auto">
-  Visitor count<br>
-<img src="https://camo.githubusercontent.com/86856d208d6a417e0a6d2783420b0a291ebb94a7c081c2028ba0c56df4bdb759/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f6e6b6f6d61726576267374796c653d666f722d7468652d6261646765" data-canonical-src="https://komarev.com/ghpvc/?username=dedition&amp;style=for-the-badge" style="max-width: 100%;">
-</p>
+  <!-- Visitor count<br> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedition&label=Profile%20views&color=0e75b6&style=flat" alt="dedition" /> </p>
+<!-- <img src="https://camo.githubusercontent.com/86856d208d6a417e0a6d2783420b0a291ebb94a7c081c2028ba0c56df4bdb759/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f6e6b6f6d61726576267374796c653d666f722d7468652d6261646765" data-canonical-src="https://komarev.com/ghpvc/?username=dedition&amp;style=for-the-badge" style="max-width: 100%;">
+</p> -->
 <!-- Running emoji -->
 <img align='right' src="https://camo.githubusercontent.com/a5c7c7397871b9348b88302ac5cd56ddbf8774b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73792d7265636f7264732f73746174696366696c65406d61737465722f696d616765732f3230323030372f6875616a692e676966">
 
@@ -25,7 +26,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> Skills and Technologies <h2>
+<h3>About Me </h3>
+I'm a full-stack web developer with a passion for learning and building new things.
+Born and raised in the United Kingdom, I moved to the United States in 2017.
+Want to know more? Send a message :)
+
+- 🔭 I’m currently working on [Facebook-Cap](https://facebook-cap.herokuapp.com/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/leo l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo l" height="30" width="40" /></a>
+</p>
+
+<h3> Tools and Technologies <h2>
 <div align="center">
  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183869554-ae3ce73a-b756-4cea-bb96-eadc96506102.png" alt="HTTP" title="HTTP" /></code>
  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="REST" title="REST" /></code>
@@ -47,5 +60,10 @@ Here are some ideas to get you started:
  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>
  <code><img height="50" src="https://camo.githubusercontent.com/e283cab049c866f174e0892a3a622fea361338a0e898dcb1d5bd366c61ff80b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2d776f72646d61726b2e737667" alt="Heroku" title="Heroku" /></code>
+ <p align="left"> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dedition" alt="dedition" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedition&show_icons=true&locale=en" alt="dedition" /></p>
