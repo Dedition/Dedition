@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left" style="text-decoration: underline;">About Me </h3>
-I'm a full-stack web developer proficient in React/Redux Javascript and Python backend
+I'm a full-stack web developer proficient in React/Redux, Javascript and Python backend
 with a passion for learning and building new things.
 Born and raised in the United Kingdom, I moved to the United States in 2017.
 Want to know more? Send a message :)
