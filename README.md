@@ -37,7 +37,9 @@ Want to know more? Send a message :)
 
 <h3 align="left" style="text-decoration: underline;">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/leo-l-79a260b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo l" height="30" width="40" /></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="leo-l-79a260b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/leo-l-79a260b0?trk=profile-badge">Leo L.</a></div>
+
+<!-- <a href="https://www.linkedin.com/in/leo-l-79a260b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo l" height="30" width="40" /></a> -->
 </p>
 
 <h3  style="text-decoration: underline;"> Tools and Technologies <h2>
