@@ -33,7 +33,7 @@ with a passion for learning and building new things.
 Born and raised in the United Kingdom, I moved to the United States in 2017.
 Want to know more? Send a message :)
 
-- 🔭 I’m currently working on a (now completed) [POS-System](https://pos-frontend.onrender.com/) :)
+- 🔭 I’m currently working on a revamped [Portfolio](https://dedition.github.io) :)
 
 <h3 align="left" style="text-decoration: underline;">Connect with me:</h3>
 <p align="left">
